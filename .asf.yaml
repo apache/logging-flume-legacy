@@ -19,10 +19,10 @@
 notifications:
   # GitHub already provides notifications for PRs and issues.
   # Please don't duplicate that noise here!
-  commits: commits@flume.apache.org
+  commits: commits@logging.apache.org
   jira_options: link label
 github:
-  description: "Apache Flume Twitter provides the Twitter Source for Apache Flume"
+  description: "Apache Flume Legacy provides the legacy Avro and Thrift Source for Apache Flume"
   homepage: https://flume.apache.org/
   features:
     issues: true
