@@ -37,7 +37,7 @@ limitations under the License.
     <ReleaseManager>Ralph Goers</ReleaseManager>
     <ReleaseKey>B3D8E1BA</ReleaseKey>
     <SigningUserName>rgoers@apache.org</SigningUserName>
-    <avro.version>1.11.3</avro.version>
+    <avro.version>1.11.4</avro.version>
     <checksum-maven-plugin.version>1.11</checksum-maven-plugin.version>
     <commons-lang.version>2.6</commons-lang.version>
     <fest-reflect.version>1.4</fest-reflect.version>
