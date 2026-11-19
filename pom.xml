@@ -235,6 +235,7 @@ limitations under the License.
   <modules>
     <module>flume-legacy-avro-source</module>
     <module>flume-legacy-thrift-source</module>
+    <module>flume-zookeeper</module>
   </modules>
   <build>
     <pluginManagement>
